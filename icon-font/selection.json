@@ -1,0 +1,95 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 0c-278.748 0-505.458 222.762-511.848 499.974 5.92-241.864 189.832-435.974 415.848-435.974 229.75 0 416 200.576 416 448 0 53.020 42.98 96 96 96s96-42.98 96-96c0-282.77-229.23-512-512-512zM512 1024c278.748 0 505.458-222.762 511.848-499.974-5.92 241.864-189.832 435.974-415.848 435.974-229.75 0-416-200.576-416-448 0-53.020-42.98-96-96-96s-96 42.98-96 96c0 282.77 229.23 512 512 512z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"spinner",
+					"loading",
+					"loading-wheel",
+					"busy",
+					"wait"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 2,
+				"prevSize": 16,
+				"ligatures": "spinner9, loading10",
+				"name": "spinner9",
+				"id": 131,
+				"code": 59648
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 130
+		},
+		{
+			"icon": {
+				"paths": [
+					"M896 0h-768c-70.4 0-128 57.6-128 128v768c0 70.4 57.6 128 128 128h768c70.4 0 128-57.6 128-128v-768c0-70.4-57.6-128-128-128zM896 896h-768v-768h768v768z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"checkbox-unchecked",
+					"checkbox",
+					"unchecked",
+					"square"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 1,
+				"prevSize": 16,
+				"ligatures": "checkbox-unchecked, checkbox2",
+				"name": "checkbox-unchecked",
+				"id": 340,
+				"code": 59649
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 339
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"embed": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 0,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16
+	}
+}
