@@ -43,8 +43,9 @@
 
 .easy-button-button .button-state{
   display: block;
-  width: 100%;
-  height: 100%;
+/*  commenting the width and the height as below makes the easy button work otherwise the icon's float against the top of the button. 
+/*  width: 100%;   */
+/*  height: 100%;  */
   position: relative;
 }
 
